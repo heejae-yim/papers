@@ -1,5 +1,10 @@
+# Heejae Yim
+## Resume
+- [latest_resume](https://github.com/heejae-yim/papers/raw/master/files/heejae.yim_20190626.pdf)
+
 ## Research Papers
-Heejae Yim
+
+
 
 - (2015) [Randomized Approximation of the Frequency of Items](https://github.com/heejae-yim/papers/raw/master/files/Randomized_2015.pdf)
 - (2015) [ストリーム中のアイテム頻度に関する小領域乱択近似アルゴリズム](https://github.com/heejae-yim/papers/raw/master/files/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0_2015.pdf)
