@@ -1,9 +1,6 @@
-# Heejae Yim
-## Resume
-- [latest_resume](https://github.com/heejae-yim/papers/raw/master/files/heejae.yim_20190626.pdf)
-
 ## Research Papers
 
+Heejae Yim ([latest_resume](https://github.com/heejae-yim/papers/raw/master/files/heejae.yim_20190626.pdf))
 
 
 - (2015) [Randomized Approximation of the Frequency of Items](https://github.com/heejae-yim/papers/raw/master/files/Randomized_2015.pdf)
